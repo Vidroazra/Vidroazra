@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Welcome to Vidroazra! 
 
 Hey there! I'm **Vidroazra**, an **Electronics and Communication Engineer**🎓. I’m passionate about **technology, microelectronics, and programming**, and this space is where I share my projects and knowledge! 🚀
